@@ -1,7 +1,7 @@
 # Unity-Cinemachine-Snippets
 
 
-1) CinemachineDollyCart.cs
+## CinemachineDollyCart.cs
 
 IgnoreTimeScaleUpdate & IgnoreTimeScaleFixedUpdate for usage with Timescale 0
 
